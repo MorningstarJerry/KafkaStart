@@ -106,11 +106,11 @@ namespace KafkaStart
 ```
 
 # 通过命令行直接在终端查看
-![image-20210702162445658](C:\Users\2294765\AppData\Roaming\Typora\typora-user-images\image-20210702162445658.png)
+![p1](https://github.com/MorningstarJerry/KafkaStart/blob/master/screens/p1.png)
 
 
 # 通过.Net Core Customer 订阅查看
-![image-20210702162957500](C:\Users\2294765\AppData\Roaming\Typora\typora-user-images\image-20210702162957500.png)
+![p2](https://github.com/MorningstarJerry/KafkaStart/blob/master/screens/p2.png)
 
 # Java
 
